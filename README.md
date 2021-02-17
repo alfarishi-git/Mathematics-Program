@@ -1,4 +1,1 @@
-# Mathematics-Program-
-Applying mathematical calculations into programming
-
-The program is made with Indonesia language
+These code was from my college lab assignment
