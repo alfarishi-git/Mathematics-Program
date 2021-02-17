@@ -1,1 +1,1 @@
-These code was from my college lab assignment
+These codes were from my college lab assignment
